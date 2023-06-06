@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.go
+!*.md
+!LICENSE
+!go.mod
+!go.sum
